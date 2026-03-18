@@ -80,6 +80,10 @@ Integrated PayPal Sandbox for secure payment simulation and developed a JSP-base
 **Tech:** React, Node.js, Express, MongoDB, Docker, CI/CD  
 Developed the Payment entity and payment-related backend functionality. Supported transaction processing, booking-payment workflow integration, and CI/CD-enabled deployment workflows.
 
+### 🛋️ Concept.Store — 3D Room Designer
+**Tech:** React, TypeScript, Three.js, Tailwind CSS, Vite  
+Interactive browser-based 3D/2D room planner where users can place, rotate, move, and customize furniture models, save layouts, and export screenshots.
+
 ### ✈️ Travel Planning App
 **Tech:** Flutter, Dart, APIs  
 Developed the Schedule Page for trip planning and integrated Google Maps API for location and route-based features.
