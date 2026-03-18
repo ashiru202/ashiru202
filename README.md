@@ -4,19 +4,19 @@
 
 I'm a Software Engineering undergraduate with hands-on experience in full-stack web and mobile application development. I enjoy building practical, scalable, and user-focused software using modern technologies such as the MERN stack, Flutter, Firebase, C#, .NET, Java, and SQL.
 
-- 🎓 BSc (Hons) in Software Engineering  
+🎓 BSc (Hons) in Software Engineering  
   **NSBM Green University** (affiliated with the University of Plymouth, UK)  
   **Expected Graduation:** 2026
 
-- 💻 Interested in **Full-Stack Development**, **Mobile App Development**, and **Real-Time Applications**
+💻 Interested in **Full-Stack Development**, **Mobile App Development**, and **Real-Time Applications**
 
-- 🌱 Currently improving my skills in **scalable system design**, **API development**, and **modern deployment workflows**
+🌱 Currently improving my skills in **scalable system design**, **API development**, and **modern deployment workflows**
 
-- 📍 Based in **Minuwangoda, Sri Lanka**
+📍 Based in **Minuwangoda, Sri Lanka**
 
-- 📫 Reach me at: **ashirudil@gmail.com**
+📫 Reach me at: **ashirudil@gmail.com**
 
-- 🔗 LinkedIn: [linkedin.com/in/ashirudilmindesilva](https://linkedin.com/in/ashirudilmindesilva)
+🔗 LinkedIn: [linkedin.com/in/ashirudilmindesilva](https://linkedin.com/in/ashirudilmindesilva)
 
 ---
 
